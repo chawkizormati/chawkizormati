@@ -49,7 +49,7 @@
 
 <h4><b>Web Development & Frameworks</b></h4>
 <p>
-  <code>Angular</code> · <code>ReactJS</code> · <code>Node.js</code> · <code>Spring Boot</code> · <code>ASP.NET</code> · <code>Symfony</code> · <code>Django</code> · <code>PHP</code> · <code>Flutter</code> 
+  <code>Angular</code> · <code>ReactJS</code> · <code>Node.js</code> · <code>Spring Boot</code> · <code>ASP.NET</code> · <code>Symfony</code> · <code>Django</code> · <code>PHP</code> 
 </p>
 
 <h4><b>Databases & Programming Languages</b></h4>
